@@ -1,0 +1,12 @@
+@charset "UTF-8";
+body {
+
+    background-color:chocolate
+}
+p {
+    text-align: justify;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
